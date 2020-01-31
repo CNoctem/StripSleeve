@@ -32,4 +32,3 @@ create table album (
 );
 
 select * from album;
-    
